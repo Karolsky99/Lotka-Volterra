@@ -16,7 +16,7 @@ plt.plot(val_x, val_y2, 'r-', label='Drapieżnik')
 plt.title('Model Lotki-Volterry - Zmiana liczebności populacji w czasie')
 
 # legenda
-plt.legend(loc="upper center",)
+plt.legend(loc="upper center")
 
 # etykiety osi
 plt.xlabel('Czas [a.u]')
